@@ -3,7 +3,7 @@ body{
 	background-color: lightgrey;
 }
 h1{
-colour: orange;
+color: orange;
 font-size: 90px;
 text-decoration: underline;
 }
@@ -14,7 +14,7 @@ text-decoration: underline;
 	font-size: 12px;
 h2{
 	font-size: 22px;
-	colour: green;
+	color: green;
 }
 span{
 	font-style: italic;
